@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f7c64017.css",
+    "main.js": "./static/js/main.c5ccb0e6.js",
+    "static/js/787.b827dc5b.chunk.js": "./static/js/787.b827dc5b.chunk.js",
+    "static/media/Sunrise - 74704.mp4": "./static/media/Sunrise - 74704.aa8288867251475ecae9.mp4",
+    "static/media/trip start video.mp4": "./static/media/trip start video.f7cf9f7813d9af180fe7.mp4",
+    "static/media/taichung.jpg": "./static/media/taichung.008a0c65a04299580713.jpg",
+    "static/media/taipei-101.jpg": "./static/media/taipei-101.503ef54bfe43222aad96.jpg",
+    "static/media/hualien.jpg": "./static/media/hualien.8fbb398bf31678f8993d.jpg",
+    "static/media/台南_OG圖_shelly.jpg": "./static/media/台南_OG圖_shelly.2fb3ad2ce76fa370820b.jpg",
+    "static/media/taitung.jpg": "./static/media/taitung.3b041e862fab796dc30e.jpg",
+    "static/media/koahsuing.jpg": "./static/media/koahsuing.d95c80ab0683319187b9.jpg",
+    "index.html": "./index.html",
+    "main.f7c64017.css.map": "./static/css/main.f7c64017.css.map",
+    "main.c5ccb0e6.js.map": "./static/js/main.c5ccb0e6.js.map",
+    "787.b827dc5b.chunk.js.map": "./static/js/787.b827dc5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c64017.css",
+    "static/js/main.c5ccb0e6.js"
+  ]
+}
